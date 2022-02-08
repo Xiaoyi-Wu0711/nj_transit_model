@@ -15,7 +15,7 @@ folium-loader:
 toc: true
 toc_sticky: true
 ---
-![NJ_Transit_Amtrak](https://github.com/Xiaoyi-Wu0711/nj_transit_model/blob/main/assets/images/us_njtransit_nec.jpeg)
+![NJ_Transit_Amtrak](https://raw.githubusercontent.com/Xiaoyi-Wu0711/nj_transit_model/master/assets/images/us_njtransit_nec.jpeg)
 
 
 ## 1. Stations 
@@ -38,7 +38,7 @@ NJ Transit now operates 11 commuter train lines, largely in northern New Jersey 
 
 The following map demonstrates the average delay minutes (circle size) and lines (color) of the station, which shows that the **Atlantic City Line** suffered substantial severe delay compared with all other lines. Each station on the Atlantic City Line has an average delay duration that is four times that of all other stations (which is 4.4 min).
 
-![line_legend](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/line_legend.jpg)
+![line_legend](https://raw.githubusercontent.com/Xiaoyi-Wu0711/nj_transit_model/master/assets/images/line_legend.jpg)
 <div id="folium-chart-2"></div>
 
 ## 3. Station Lag

@@ -9,7 +9,7 @@ tags:
 excerpt: "Inspiration of the project."
 ---
 
-![NJ_Transit_Amtrak](https://github.com/Xiaoyi-Wu0711/nj_transit_model/blob/main/assets/images/us_njtransit_nec.jpeg)
+![NJ_Transit_Amtrak](https://raw.githubusercontent.com/Xiaoyi-Wu0711/nj_transit_model/master/assets/images/us_njtransit_nec.jpeg)
 
 
 
@@ -27,7 +27,7 @@ Thus, we conduct analysis to reveal factors which influence delay and help the o
 
 At the same time, we develop prediction models to forecast when and where the delay will occur to help the passengers mitigate delay cost.  
 
-![NJ_Transit_Amtrak](https://github.com/Xiaoyi-Wu0711/nj_transit_model/tree/main/assets/images/penn-station-delays.jpeg)
+![NJ_Transit_Amtrak](https://raw.githubusercontent.com/Xiaoyi-Wu0711/nj_transit_model/master/assets/images/penn-station-delays.jpeg)
 Delay in NYC Penn Station on Feb.3, 2020 <a href="https://pix11.com/news/local-news/manhattan/nearly-3-hour-delays-massive-crowds-continue-at-penn-station/">(Smith, 2020)</a>
  
 # 2. Data Preparation
@@ -44,7 +44,7 @@ Also, we use the weather station data from [National Centers for Environmental I
 The project will be seperated into following 2 sections:
 - **Exploratory Analysis**: <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/3when_delay/">when</a>, <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/2where_delay/">where</a>  did the delay usually happen?
 
-- **Modeling**:  <a href="https://penelope0318.github.io/NJ_Transit_Train_Delay/1model/">Methods</a> involving feature engineering, model selection, cross-validation. 
+- **Modeling**:  <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/1model/">methods</a> involving feature engineering, model selection, cross-validation. 
 
   
 
