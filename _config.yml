@@ -55,17 +55,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Xiaoyi Wu & Jing Zhang"
+  name: "Xiaoyi Wu"
   avatar: # "/assets/photo/avatar_jing.png" 
-  bio: "Students in UPenn MUSA and MCP program and this is the final project of MUSA550"
+  bio: "This is a homework project of MUSA550, Geospatial Data Science in Python"
   location: "Philadelphia, PA"
   links:
     - label: "Xiaoyi's Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:xiaoyiwu@design.upenn.edu
-    - label: "Jing's Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jing321@upenn.edu
+
 
 
 # Defaults
