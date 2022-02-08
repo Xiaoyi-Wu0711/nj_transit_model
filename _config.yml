@@ -57,12 +57,16 @@ plugins:
 author:
   name: "Xiaoyi Wu"
   avatar: # "/assets/photo/avatar_jing.png" 
-  bio: "This is a homework project of MUSA550, Geospatial Data Science in Python"
+  bio: "A master student studying urban spatial analytics at University of Pennsylvania."
   location: "Philadelphia, PA"
   links:
     - label: "Xiaoyi's Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:xiaoyiwu@design.upenn.edu
+
+    - label: "Personal website"
+      icon: "fas fa-fw fa-link"
+      url: "https://xiaoyi-wu0711.github.io/hi_there/"
 
 
 
@@ -84,5 +88,3 @@ defaults:
 # tag_archive:
 #   type: liquid
 #   path: /tags/
-
-theme: jekyll-theme-minimal

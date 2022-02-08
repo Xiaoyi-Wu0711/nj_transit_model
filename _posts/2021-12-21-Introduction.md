@@ -9,12 +9,13 @@ tags:
 excerpt: "Inspiration of the project."
 ---
 
-![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/us_njtransit_nec.jpeg)
+![NJ_Transit_Amtrak](https://github.com/Xiaoyi-Wu0711/nj_transit_model/blob/main/assets/images/us_njtransit_nec.jpeg)
 
 
 
 
-## Inspiration
+## 1. Inspiration
+
 This project aims to analyze the spatio-temporal distribution of train delay in New Jersey Transit(NJ Transit), and 
 make a binary prediction model to predict if certain train at specific station is going to experience a delay more than 10 minutes. 
 
@@ -26,10 +27,10 @@ Thus, we conduct analysis to reveal factors which influence delay and help the o
 
 At the same time, we develop prediction models to forecast when and where the delay will occur to help the passengers mitigate delay cost.  
 
-![NJ_Transit_Amtrak](https://raw.githubusercontent.com/penelope0318/Amtrak_Train_Delay/master/assets/images/penn-station-delays.jpeg)
+![NJ_Transit_Amtrak](https://github.com/Xiaoyi-Wu0711/nj_transit_model/tree/main/assets/images/penn-station-delays.jpeg)
 Delay in NYC Penn Station on Feb.3, 2020 <a href="https://pix11.com/news/local-news/manhattan/nearly-3-hour-delays-massive-crowds-continue-at-penn-station/">(Smith, 2020)</a>
  
-# Data Preparation
+# 2. Data Preparation
 
 We use the open NJ Transit origin-destination performance data from NJ Transit and Amtrak train trips
  on [Kaggle](https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance?select=2018_11.csv) as the main dataset. Here we select historical data from 11/2019 to 12/2019, totaling 682,163 observation as the training and testing data. 
@@ -39,9 +40,9 @@ To clean the data, we dropped any rows with NA values in the `scheduled_time`, `
 Also, we use the weather station data from [National Centers for Environmental Information](https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND) to include the weather conditions into our prediction model. 15% percent of observation values in this datasets are NA. Here, we fill the NA values of binary variables such as `fog` and `precipitation` with 0, and that of continuous variables such as `temperature` with mean value.
 
 
-## Content
+## 3. Content
 The project will be seperated into following 2 sections:
-- **Exploratory Analysis**: <a href="https://penelope0318.github.io/NJ_Transit_Train_Delay/3when_delay/">when</a>, <a href="https://penelope0318.github.io/NJ_Transit_Train_Delay/2where_delay/">where</a>  did the delay usually happen?
+- **Exploratory Analysis**: <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/3when_delay/">when</a>, <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/2where_delay/">where</a>  did the delay usually happen?
 
 - **Modeling**:  <a href="https://penelope0318.github.io/NJ_Transit_Train_Delay/1model/">Methods</a> involving feature engineering, model selection, cross-validation. 
 
