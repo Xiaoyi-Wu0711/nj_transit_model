@@ -82,6 +82,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      sort:'order'
 # category_archive:
 #   type: liquid
 #   path: /categories/

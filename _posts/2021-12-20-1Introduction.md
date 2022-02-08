@@ -7,6 +7,7 @@ tags:
   - Github Page
   - update
 excerpt: "Inspiration of the project."
+order:1
 ---
 
 ![NJ_Transit_Amtrak](https://raw.githubusercontent.com/Xiaoyi-Wu0711/nj_transit_model/master/assets/images/us_njtransit_nec.jpeg)
