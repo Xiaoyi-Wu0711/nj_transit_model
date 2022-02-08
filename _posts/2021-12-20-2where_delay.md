@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Analysis by Location "
+title: "Analysis by Location "
 date: 2021-12-20
 published: true
 tags: [dataviz, altair, folium]
