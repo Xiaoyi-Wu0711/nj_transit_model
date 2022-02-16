@@ -43,9 +43,9 @@ Also, we use the weather station data from [National Centers for Environmental I
 
 ## 3. Content
 The project will be seperated into following 2 sections:
-- **Exploratory Analysis**: <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/3when_delay/">when</a>, <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/2where_delay/">where</a>  did the delay usually happen?
+- **Exploratory Analysis**: <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/3when_delay/">When</a>, <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/2where_delay/">where</a>  did the delay usually happen?
 
-- **Modeling**:  <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/1model/">methods</a> involving feature engineering, model selection, cross-validation. 
+- **Modeling**:  <a href="https://xiaoyi-wu0711.github.io/nj_transit_model/1model/">Methods</a> involving feature engineering, model selection, cross-validation. 
 
   
 
